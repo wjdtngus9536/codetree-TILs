@@ -1,0 +1,5 @@
+print(input())
+a = float(input())
+b = float(input())
+print(f'a:.2f')
+print(f'b:.2f')
